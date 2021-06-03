@@ -17,7 +17,7 @@
             "inArguments": [
                 {
                   "email": "{{Contact.Default.EmailAddress}}",
-                  "to": "{{Contact.Attribute.test_DE.phone}}" 
+                  "to": "{{Contact.Attribute.DE_CCNT_Twilio_Test1.Phone}}" 
                 }               
             ],
             "outArguments": [],
